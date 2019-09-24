@@ -1,2 +1,2 @@
 # cs112_labs
-Submissions from Data Structures labs
+Lab Submissions from Data Structures class
