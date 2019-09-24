@@ -1,2 +1,2 @@
 # cs112_labs
-Submissions from cs112 labs
+Submissions from Data Structures labs
