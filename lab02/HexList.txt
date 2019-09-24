@@ -1,0 +1,21 @@
+/*The generated Hex addresses and 
+*sizes for the variables
+
+0x7ffd98cb3f40 size:16 ldoubleVal (highest)
+0x7ffd98cb3ef0 size:8  doubleVal
+0x7ffd98cb3ee8 size:4  floatVal
+0x7ffd98cb3ef8 size:8  longVal
+0x7ffd98cb3eec size:4  intVal
+0x7ffd98cb3ee6 size:2  shortVal
+0x7ffd98cb3ee3 size:1  charVal1  (lowest)  
+0x7ffd98cb3ee4 size:1  charVal2 
+0x7ffd98cb3ee5 size:1  boolVal
+
+0x7ffd98cb3f00 size:8  ldPtr
+0x7ffd98cb3f08 size:8  dPtr
+0x7ffd98cb3f10 size:8  fPtr
+0x7ffd98cb3f18 size:8  lPtr
+0x7ffd98cb3f20 size:8  iPtr
+0x7ffd98cb3f28 size:8  sPtr
+0x7ffd98cb3f30 size:8  cPtr
+0x7ffd98cb3f38 size:8  bPtr
